@@ -1,0 +1,2 @@
+laser_scan_matcher:ydlidar_ros-G4
+-DCATKIN_DEVEL_PREFIX=/home/zdg/Single_Lidar_Gmapping/devel -DCMAKE_INSTALL_PREFIX=/home/zdg/Single_Lidar_Gmapping/install -G Unix Makefiles
