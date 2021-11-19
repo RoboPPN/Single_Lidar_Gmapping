@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC   -shared -Wl,-soname,libgtest_main.so -o libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -L/home/zdg/Single_Lidar_Gmapping/build/gtest/googlemock/gtest/src -Wl,-rpath,/home/zdg/Single_Lidar_Gmapping/build/gtest/googlemock/gtest/src:/home/zdg/Single_Lidar_Gmapping/build/gtest/googlemock/gtest -lpthread libgtest.so -lpthread 
